@@ -1,0 +1,17 @@
+# Environment Variables
+.env
+
+# Temporary / intermediate files
+tmp/
+
+# Scraped brand data (contains downloaded images & raw API responses)
+brand-data/
+
+# Google OAuth Credentials
+credentials.json
+token.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
